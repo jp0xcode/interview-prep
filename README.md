@@ -7,6 +7,6 @@
 
 A Python-powered collection of **algorithms**, **data structures**, and **security-themed coding challenges** tailored for **cybersecurity professionals** preparing for technical interviews.
 
-Feel free to reach out to me on [LinkedIn]([url](https://www.linkedin.com/in/jayaprakash-jp)). I'm always up for professional discussions over coffee ☕
+Feel free to reach out to me on [LinkedIn][https://www.linkedin.com/in/jayaprakash-jp]. I'm always up for professional discussions over coffee ☕
 and happy to hear suggestions for new challenges or improvements to this repo.
 Whether you're into security, Python, IR, or malware analysis — let's collaborate and grow together.
