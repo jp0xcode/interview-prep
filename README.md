@@ -9,4 +9,4 @@ A Python-powered collection of **algorithms**, **data structures**, and **securi
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jayaprakash-jp). I'm always up for professional discussions over coffee ☕
 and happy to hear suggestions for new challenges or improvements to this repo.
-Whether you're into security, Python, IR, or malware analysis — let's collaborate and grow together.
+Whether you're into security, Python, IR, or malware analysis. Let's collaborate and grow together.
